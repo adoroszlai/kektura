@@ -3,7 +3,7 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
- <trk><name>2013/12/29 - Kutyahegyi kőfejtő</name><number>1</number><trkseg>
+ <trk><name>2013/12/29 - Kutya-hegyi kőfejtő</name><number>1</number><trkseg>
 		<trkpt lat="47.5757491" lon="18.8784256"><ele>320.550</ele><time>2013-12-29T12:07:57Z</time></trkpt>
 		<trkpt lat="47.5757306" lon="18.8782765"><ele>319.099</ele><time>2013-12-29T12:08:05Z</time></trkpt>
 		<trkpt lat="47.5757379" lon="18.8781433"><ele>319.776</ele><time>2013-12-29T12:08:12Z</time></trkpt>
