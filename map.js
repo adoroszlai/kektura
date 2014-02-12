@@ -19,7 +19,7 @@ function init_map() {
 		$.get("tracks/" + track, function(data) {
 			var route = new L.GPX(data, {
 				async: true,
-				marker_options: {},
+				marker_options: { startIconUrl: null, endIconUrl: null },
 				polyline_options: {
 					color: colors[count++],
 					opacity: 0.75,
