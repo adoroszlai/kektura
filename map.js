@@ -37,7 +37,7 @@ function init_map() {
 					elevation.addData(polyline);
 				});
 
-				polyline.bindPopup(route.get_name());
+				polyline.bindLabel(route.get_name(), { direction: 'auto' });
 			});
 			route.on('loaded', function() {
 				if (++loadedCount === routeCount) {
@@ -50,6 +50,5 @@ function init_map() {
 }
 
 // TODO
-// labels instead of popups
 // unique color for each track
 // POIs
