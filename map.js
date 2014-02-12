@@ -7,7 +7,6 @@ function init_map() {
 	var map = L.map('map');
 	new L.OSM.CycleMap().addTo(map);
 	var elevation = L.control.elevation({ width: 500 });
-	elevation.addTo(map);
 
 	var routesLayer = L.featureGroup().addTo(map);
 	var routeCount = tracks.length;
@@ -39,6 +38,9 @@ function init_map() {
 					polyline.removeDistanceMarkers();
 				});
 				polyline.on('click', function() {
+					if (!elevation.getContainer()) {
+						elevation.addTo(map);
+					}
 					elevation.clear();
 					elevation.addData(polyline);
 				});
