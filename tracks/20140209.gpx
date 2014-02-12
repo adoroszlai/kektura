@@ -3,7 +3,7 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
- <trk><name>2014/02/09 - Cseres tető bányaemlékei</name><number>1</number><trkseg>
+ <trk><name>2014/02/09 - Cseres-tető bányaemlékei</name><number>1</number><trkseg>
 		<trkpt lat="47.5757917" lon="18.8789880"><ele>342.840</ele><time>2014-02-09T13:02:12Z</time></trkpt>
 		<trkpt lat="47.5757094" lon="18.8785853"><ele>343.372</ele><time>2014-02-09T13:03:32Z</time></trkpt>
 		<trkpt lat="47.5756936" lon="18.8782884"><ele>344.111</ele><time>2014-02-09T13:04:24Z</time></trkpt>
