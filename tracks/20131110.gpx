@@ -3,7 +3,7 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
- <trk><name>2013/11/10 - Éleskő, Ilona-lak</name><number>1</number><trkseg>
+ <trk><name>2013/11/10 - Éles-kő, Ilona-lak</name><number>1</number><trkseg>
 		<trkpt lat="47.5756991" lon="18.8713569"><ele>349.366</ele><time>2013-11-10T12:29:45Z</time></trkpt>
 		<trkpt lat="47.5759753" lon="18.8707934"><ele>351.903</ele><time>2013-11-10T12:30:20Z</time></trkpt>
 		<trkpt lat="47.5762919" lon="18.8704811"><ele>352.579</ele><time>2013-11-10T12:30:48Z</time></trkpt>
