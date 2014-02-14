@@ -14,6 +14,13 @@ function init_map() {
 	var count = 0;
 	var loadedCount = 0;
 
+	var markers = L.featureGroup().addTo(map);
+	pois.forEach(function(poi) {
+		var marker = L.marker(poi.latlng);
+		marker.bindLabel(poi.name, { direction: 'auto' });
+		marker.addTo(markers);
+	});
+
 	tracks.forEach(function(track) {
 		$.get("tracks/" + track, function(data) {
 			var route = new L.GPX(data, {
