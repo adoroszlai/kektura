@@ -1,8 +1,8 @@
 var tracks = [
-	"20130922.gpx",
-	"20131006.gpx",
-	"20131110.gpx",
-	"20131229.gpx",
-	"20140126.gpx",
-	"20140209.gpx",
+	"tracks/20130922.gpx",
+	"tracks/20131006.gpx",
+	"tracks/20131110.gpx",
+	"tracks/20131229.gpx",
+	"tracks/20140126.gpx",
+	"tracks/20140209.gpx",
 ];
