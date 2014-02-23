@@ -8,4 +8,6 @@ var pois = [
   {latlng:[47.5852204, 18.8420916], name:"vaditató"},
   {latlng:[47.5675421, 18.8644739], name:"mészégető"},
   {latlng:[47.5568284, 18.8683407], name:"festékégető"},
+  {latlng:[47.5627022, 18.8804863], name:"festékégető"},
+  {latlng:[47.5825126, 18.8512647], name:"kőfejtő"},
 ];
