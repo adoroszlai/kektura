@@ -1,7 +1,7 @@
 function init_map() {
 	var map = L.map('map');
 	new L.OSM.CycleMap().addTo(map);
-	new L.OSM.HuHiking().addTo(map);
+	L.control.scale().addTo(map);
 
 	var markers = L.featureGroup().addTo(map);
 	pois.forEach(function(poi) {
