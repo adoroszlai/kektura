@@ -13,4 +13,6 @@ var pois = [
   {latlng:[47.5966170, 18.8405121], name:"barlang"},
   {latlng:[47.5692769, 18.9233352], name:"vaslelőhely"},
   {latlng:[47.5609284, 18.9319601], name:"Hét-lyuk zsomboly"},
+  {latlng:[47.5532424, 18.8973270], name:"festékégető"},
+  {latlng:[47.5372269, 18.8914775], name:"katonasírok"},
 ];
