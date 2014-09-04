@@ -15,4 +15,5 @@ var pois = [
   {latlng:[47.5609284, 18.9319601], name:"Hét-lyuk zsomboly"},
   {latlng:[47.5532424, 18.8973270], name:"festékégető"},
   {latlng:[47.5372269, 18.8914775], name:"katonasírok"},
+  {latlng:[47.5934486, 18.8812427], name:"Fülkés-kő"},
 ];
