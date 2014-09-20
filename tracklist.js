@@ -2,6 +2,8 @@ var tracks = [
 	"tracks/20111002.gpx",
 	"tracks/20111218.gpx",
 	"tracks/20111231.gpx",
+	"tracks/20120403.gpx",
+	"tracks/20120404.gpx",
 	"tracks/20120610.gpx",
 	"tracks/20120611.gpx",
 	"tracks/20120614.gpx",
