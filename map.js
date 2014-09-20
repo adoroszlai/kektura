@@ -10,9 +10,17 @@ function init_map() {
 		marker.addTo(markers);
 	});
 
-	var routes = L.gpxGroup(tracks);
-	routes.on('loaded', function() {
-		map.fitBounds(routes.getBounds());
+	$.get('tracks/okt.gpx', function (data) {
+		new L.GPX(data, {
+			async: true,
+			polyline_options: {
+				color: 'blue',
+				opacity: 0.33,
+				distanceMarkers: { lazy: true },
+			}
+		}).on('loaded', function(e) {
+			map.fitBounds(e.target.getBounds());
+		}).addTo(map);
+		L.gpxGroup(tracks).addTo(map);
 	});
-	routes.addTo(map);
 }
