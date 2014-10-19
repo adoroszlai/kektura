@@ -12,6 +12,7 @@ L.GpxGroup = L.Class.extend({
 		this._routes = routes;
 		this._layers = L.featureGroup();
 		this._elevation = L.control.elevation({ width: 500 });
+		this._distance = 0;
 		L.Util.setOptions(this, options);
 	},
 
@@ -95,6 +96,7 @@ L.GpxGroup = L.Class.extend({
 					polyline.bindLabel(route.get_name(), { direction: 'auto' });
 				});
 				route.on('loaded', function() {
+					this_._distance += route.get_distance();
 					if (++loadedCount === routeCount) {
 						this_.fire('loaded');
 					}
@@ -106,6 +108,10 @@ L.GpxGroup = L.Class.extend({
 
 	removeFrom: function (map) {
 		this._layers.removeFrom(map);
+	},
+
+	get_distance: function() {
+		return this._distance;
 	},
 
 });
