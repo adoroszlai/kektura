@@ -3,7 +3,7 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-	<trk><name>2014/10/17 - Nagymaros - Törökmezői turistaház</name><number>1</number><trkseg>
+	<trk><name>2014/10/17 Nagymaros - Törökmezői turistaház</name><number>1</number><trkseg>
 		<trkpt lat="47.7913080" lon="18.9587879"><ele>113.271</ele><time>2014-10-17T11:07:00Z</time></trkpt>
 		<trkpt lat="47.7912213" lon="18.9589777"><ele>121.491</ele><time>2014-10-17T11:07:09Z</time></trkpt>
 		<trkpt lat="47.7908514" lon="18.9589180"><ele>120.848</ele><time>2014-10-17T11:07:54Z</time></trkpt>

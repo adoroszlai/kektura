@@ -3,8 +3,6 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-		<name>2012/06/15 Bélapátfalva - Szarvaskő</name>
-		<desc>Export from GpsPrune</desc>
 	<trk><name>2012/06/15 Bélapátfalva - Szarvaskő</name><number>1</number><trkseg>
 		<trkpt lat="48.0612418" lon="20.3537197"><ele>306.600</ele><time>2012-06-15T08:22:47Z</time></trkpt>
 		<trkpt lat="48.0611437" lon="20.3537303"><ele>306.547</ele><time>2012-06-15T08:23:02Z</time></trkpt>

@@ -3,8 +3,6 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-		<name>2012/06/10 Putnok - Dédestapolcsány</name>
-		<desc>Export from GpsPrune</desc>
 	<trk><name>2012/06/10 Putnok - Dédestapolcsány</name><number>1</number><trkseg>
 		<trkpt lat="48.2868384" lon="20.4369575"><ele>160.414</ele><time>2012-06-10T10:49:53Z</time></trkpt>
 		<trkpt lat="48.2868836" lon="20.4367517"><ele>160.301</ele><time>2012-06-10T10:50:15Z</time></trkpt>

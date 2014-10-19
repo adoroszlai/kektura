@@ -3,8 +3,6 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-		<name>2011/12/31 Hűvösvölgy - Rozália</name>
-		<desc>Export from GpsPrune</desc>
 	<trk><name>2011/12/31 Hűvösvölgy - Rozália</name><number>1</number><trkseg>
 		<trkpt lat="47.5423766" lon="18.9654843"><ele>216.883</ele><time>2011-12-31T10:24:21Z</time></trkpt>
 		<trkpt lat="47.5425342" lon="18.9660056"><ele>216.846</ele><time>2011-12-31T10:24:53Z</time></trkpt>

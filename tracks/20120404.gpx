@@ -3,8 +3,6 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-		<name>2012/04/04 Pilisszentkereszt szurdok</name>
-		<desc>Export from GpsPrune</desc>
 	<trk><name>2012/04/04 Pilisszentkereszt szurdok</name><number>1</number><trkseg>
 		<trkpt lat="47.6850852" lon="18.9192829"><ele>260.895</ele><time>2012-04-04T10:07:31Z</time></trkpt>
 		<trkpt lat="47.6850373" lon="18.9191498"><ele>260.487</ele><time>2012-04-04T10:07:47Z</time></trkpt>

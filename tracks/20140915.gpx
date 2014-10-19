@@ -3,8 +3,6 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-		<name>2014/09/15 Sirok - Szarvaskő</name>
-		<desc>Export from GpsPrune</desc>
 	<trk><name>2014/09/15 Sirok - Szarvaskő</name><number>1</number><trkseg>
 		<trkpt lat="47.936710358" lon="20.193523407"><ele>108.759766</ele><time>2014-09-15T08:28:06Z</time></trkpt>
 		<trkpt lat="47.936653137" lon="20.193523407"><ele>108.753906</ele><time>2014-09-15T08:28:16Z</time></trkpt>

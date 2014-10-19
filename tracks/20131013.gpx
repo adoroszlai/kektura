@@ -3,8 +3,6 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-		<name>2013/10/13 Rozália - Kevély-nyereg</name>
-		<desc>Export from GpsPrune</desc>
 	<trk><name>2013/10/13 Rozália - Kevély-nyereg</name><number>1</number><trkseg>
 		<trkpt lat="47.5878732" lon="18.9924907"><ele>134.560</ele><time>2013-10-13T10:42:40Z</time></trkpt>
 		<trkpt lat="47.5878546" lon="18.9926375"><ele>136.550</ele><time>2013-10-13T10:42:53Z</time></trkpt>

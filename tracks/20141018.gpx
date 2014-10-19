@@ -3,7 +3,7 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-	<trk><name>2014/10/18 - Törökmezői turistaház - Kisinóci turistaház</name><number>1</number><trkseg>
+	<trk><name>2014/10/18 Törökmezői turistaház - Kisinóci turistaház</name><number>1</number><trkseg>
 		<trkpt lat="47.8308323" lon="18.9432875"><ele>248.690</ele><time>2014-10-18T08:40:18Z</time></trkpt>
 		<trkpt lat="47.8307814" lon="18.9432791"><ele>248.419</ele><time>2014-10-18T08:40:29Z</time></trkpt>
 		<trkpt lat="47.8308268" lon="18.9430043"><ele>248.123</ele><time>2014-10-18T08:40:51Z</time></trkpt>

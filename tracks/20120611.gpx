@@ -3,8 +3,6 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-		<name>2012/06/11 Dédestapolcsány - Bánkút</name>
-		<desc>Export from GpsPrune</desc>
 	<trk><name>2012/06/11 Dédestapolcsány - Bánkút</name><number>1</number><trkseg>
 		<trkpt lat="48.1833681" lon="20.4843212"><ele>201.182</ele><time>2012-06-11T08:23:07Z</time></trkpt>
 		<trkpt lat="48.1834019" lon="20.4841249"><ele>201.158</ele><time>2012-06-11T08:24:47Z</time></trkpt>

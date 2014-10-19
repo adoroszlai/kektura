@@ -3,8 +3,6 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-		<name>2011/12/18 Zsíroshegy - Hűvösvölgy</name>
-		<desc>Export from GpsPrune</desc>
 	<trk><name>2011/12/18 Zsíroshegy - Hűvösvölgy</name><number>1</number><trkseg>
 		<trkpt lat="47.5895139" lon="18.9005022"><ele>410.590</ele><time>2011-12-18T13:24:40Z</time></trkpt>
 		<trkpt lat="47.5893755" lon="18.9009319"><ele>410.145</ele><time>2011-12-18T13:38:36Z</time></trkpt>

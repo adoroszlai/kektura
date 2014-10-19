@@ -3,8 +3,6 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-		<name>2012/04/03 Dobogókő - Pilisszentkereszt</name>
-		<desc>Export from GpsPrune</desc>
 	<trk><name>2012/04/03 Dobogókő - Pilisszentkereszt</name><number>1</number><trkseg>
 		<trkpt lat="47.7195685" lon="18.8987395"><ele>711.202</ele><time>2012-04-03T08:01:22Z</time></trkpt>
 		<trkpt lat="47.7195714" lon="18.8985884"><ele>711.080</ele><time>2012-04-03T08:01:38Z</time></trkpt>
