@@ -22,7 +22,7 @@ function init_map() {
 			map.fitBounds(e.target.getBounds());
 		}).addTo(map);
 		L.gpxGroup(tracks).on('loaded', function(e) {
-			var pct = Math.round(e.target.get_distance() / 112.82)/100;
+			var pct = Math.round(e.target.get_distance() / 1160.0) / 10;
 			map.attributionControl.setPrefix('kéktúra:' + pct + '%');
 		}).addTo(map);
 	});
