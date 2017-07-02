@@ -27,7 +27,7 @@ L.GpxGroup = L.Class.extend({
 		var elevation_ = this._elevation;
 
 		var routeCount = this._routes.length;
-		var colors = ColorUtils.uniqueColors(routeCount);
+		var colors = this.options.colors || ColorUtils.uniqueColors(routeCount);
 		var count = 0;
 		var loadedCount = 0;
 
@@ -57,7 +57,7 @@ L.GpxGroup = L.Class.extend({
 					async: true,
 					marker_options: { startIconUrl: null, endIconUrl: null },
 					polyline_options: {
-						color: colors[count++],
+						color: colors[count++ % colors.length],
 						opacity: 0.75,
 						distanceMarkers: { lazy: true },
 					}
