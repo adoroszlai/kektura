@@ -58,7 +58,7 @@ L.GpxGroup = L.Class.extend({
 					marker_options: { startIconUrl: null, endIconUrl: null },
 					polyline_options: {
 						color: colors[count++ % colors.length],
-						opacity: 0.75,
+						opacity: 0.85,
 						distanceMarkers: { lazy: true },
 					}
 				});

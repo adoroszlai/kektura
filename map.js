@@ -1,8 +1,9 @@
 function init_map() {
 	var map = L.map('map');
-	new L.OSM.CycleMap().addTo(map);
+	new L.OSM.HOT().addTo(map);
 	L.control.scale().addTo(map);
 
+	var colors = [ '#ff0000', '#ff9b00', '#ffff00' ];
 	var markers = L.featureGroup().addTo(map);
 	pois.forEach(function(poi) {
 		var marker = L.marker(poi.latlng);
@@ -21,7 +22,7 @@ function init_map() {
 		}).on('loaded', function(e) {
 			map.fitBounds(e.target.getBounds());
 		}).addTo(map);
-		L.gpxGroup(tracks).on('loaded', function(e) {
+		L.gpxGroup(tracks, { 'colors': colors }).on('loaded', function(e) {
 			var pct = Math.round(e.target.get_distance() / 1160.0) / 10;
 			map.attributionControl.setPrefix('kéktúra:' + pct + '%');
 		}).addTo(map);
