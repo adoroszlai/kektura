@@ -52,12 +52,13 @@ L.GpxGroup = L.Class.extend({
 		});
 
 		this._routes.forEach(function(track) {
+			var color = colors[count++ % colors.length];
 			$.get(track, function(data) {
 				var route = new L.GPX(data, {
 					async: true,
 					marker_options: { startIconUrl: null, endIconUrl: null },
 					polyline_options: {
-						color: colors[count++ % colors.length],
+						color: color,
 						opacity: 0.85,
 						distanceMarkers: { lazy: true },
 					}
