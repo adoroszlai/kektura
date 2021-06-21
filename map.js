@@ -17,7 +17,6 @@ function init_map() {
 			polyline_options: {
 				color: 'blue',
 				opacity: 0.33,
-				distanceMarkers: { lazy: true },
 			}
 		}).on('loaded', function(e) {
 			map.fitBounds(e.target.getBounds());
