@@ -60,7 +60,7 @@ L.GpxGroup = L.Class.extend({
 					polyline_options: {
 						color: color,
 						opacity: 0.85,
-						distanceMarkers: { lazy: true },
+						distanceMarkers: { offset: 5000, lazy: true },
 					}
 				});
 				route.on('addline', function(evt) {
