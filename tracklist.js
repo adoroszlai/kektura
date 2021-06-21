@@ -48,6 +48,8 @@ var tracks = [
 	"tracks/20170604.gpx",
 	"tracks/20170602.gpx",
 	"tracks/20170601.gpx",
+	"tracks/20210619.gpx",
+	"tracks/20210620.gpx",
 	"tracks/20140915.gpx",
 	"tracks/20120615.gpx",
 	"tracks/20120614.gpx",
